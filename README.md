@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-## Slack-Clone Using React-Redux and Firebase for Authentication and Storing messages
+## Slack-Clone Using React-Redux, Firebase for Authentication and Storing messages, Styled Components for Styling the Webapp!
 
 In the project directory, you can run:
 
